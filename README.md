@@ -7,14 +7,14 @@ Hi, I'm Teras
 
 I'm a Computer Science student focused on software development and data science. I enjoy building projects, exploring different perspectives to problem solving, and continuously learning.
 
-* 🛠️ Skills
+# 🛠️ Skills
 - Languages: C, C++, Python, Java
 - Concepts: Data Structures, Algorithms, Systems Programming
 
-* 📂 Projects
+# 📂 Projects
 - Spotify Data Analyzer (C++) – Processes and analyzes listening history data
 
 Feel free to contact me through my linkedin or email.
-* 📫 Contact
+# 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/your-link
 - t139@umbc.edu
