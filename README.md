@@ -14,7 +14,7 @@ I'm a Computer Science student focused on software development and data science.
 # 📂 Projects
 - Spotify Data Analyzer (C++) – Processes and analyzes listening history data
 
-Feel free to contact me through my linkedin or email.
-# 📫 Contact
+
+# 📫 Contact, Feel free to contact me through my linkedin or email:
 - LinkedIn: https://www.linkedin.com/in/your-link
 - t139@umbc.edu
