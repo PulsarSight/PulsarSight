@@ -3,7 +3,7 @@
 PulsarSight/PulsarSight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Hi, I'm Teras 
+Hi, I'm Teras 
 
 I'm a Computer Science student focused on software development and data science. I enjoy building projects, exploring different perspectives to problem solving, and continuously learning.
 
